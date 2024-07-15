@@ -6,3 +6,7 @@ Feature:
 
 
 Detecting Ai generated text.
+
+
+
+More Details on Project Report folder.
