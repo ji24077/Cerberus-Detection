@@ -2,7 +2,8 @@
 
 ## Project Overview
 Cerberus-Detection is the final project for APS360: Applied Fundamentals of Deep Learning at the University of Toronto. This project focuses on developing a deep learning model capable of differentiating between AI-generated and human-generated text. This distinction is crucial for verifying the authenticity of digital content in various fields including academia and media.
-<img src="/Users/jisunghan/Desktop/demoAPS360.png" alt="alt text">
+<img src="<img width="585" alt="demoAPS360" src="https://github.com/user-attachments/assets/5d884f77-24dd-4c75-9e2b-3bfbc973012e">
+" alt="alt text">
 <img src="/Users/jisunghan/Desktop/demo1APS360.png" alt="alt text">
 
 ## Features
