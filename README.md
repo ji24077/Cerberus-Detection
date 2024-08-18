@@ -28,6 +28,6 @@ The project acknowledges the ethical implications of AI text detection and striv
 The project is a collaborative effort among students, facilitated by weekly meetings and continuous integration practices using GitHub for version control and task tracking.
 
 ## Presentation
-For a comprehensive understanding of the project including the initial proposal, methodologies, and detailed results, please refer to the [Project Report folder](https://github.com/ji24077/Cerberus-Detection/tree/main/Project%20Report). Additionally, you can view our presentation through this [link]((https://youtu.be/YXJqIAogvww)).
+For a comprehensive understanding of the project including the initial proposal, methodologies, and detailed results, please refer to the [Project Report folder](https://github.com/ji24077/Cerberus-Detection/tree/main/Project%20Report). Additionally, you can view our presentation through this [link](https://youtu.be/YXJqIAogvww).
 
 Thank you for your interest in our project. We hope our efforts will contribute significantly to the integrity and reliability of digital content verification.
